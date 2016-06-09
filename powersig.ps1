@@ -1,4 +1,5 @@
-﻿#WIP!
+#WIP!
+#Used with RemoteSigned as execution policy
 #Replace Yoursignature.htm with the proper file name
 $dom = $env:userdomain
 $usr = $env:username
